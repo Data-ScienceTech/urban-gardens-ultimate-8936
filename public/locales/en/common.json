@@ -1,4 +1,3 @@
-
 {
   "nav": {
     "home": "Home",
@@ -7,57 +6,65 @@
     "contact": "Contact"
   },
   "hero": {
-    "headline": "Transform Your Business with Our Innovative Solutions",
-    "subheadline": "Streamline operations, boost productivity, and drive growth with our cutting-edge platform designed for modern businesses.",
-    "cta": "Get Started Today",
-    "cta_secondary": "Learn More"
+    "headline": "Restore your mind, body, and spirit",
+    "subheadline": "Experience transformative wellness treatments in our peaceful sanctuary designed for your complete rejuvenation and inner harmony",
+    "cta": "Book Your Retreat",
+    "cta_secondary": "Explore Services"
   },
   "features": {
-    "title": "Why Choose Our Platform",
-    "subtitle": "Everything you need to scale your business efficiently",
+    "title": "Your Wellness Journey Awaits",
+    "subtitle": "Holistic treatments designed to nurture your complete well-being and restore natural balance",
     "feature1": {
-      "title": "Lightning Fast",
-      "description": "Optimized performance ensures your operations run smoothly at any scale."
+      "title": "Therapeutic Massage",
+      "description": "Expert therapeutic massage techniques using organic oils to release tension and restore balance to your body and mind."
     },
     "feature2": {
-      "title": "Secure & Reliable",
-      "description": "Enterprise-grade security with 99.9% uptime guarantee for peace of mind."
+      "title": "Mindfulness Programs",
+      "description": "Guided meditation and mindfulness sessions to help you find inner peace, mental clarity, and emotional balance."
     },
     "feature3": {
-      "title": "Easy Integration",
-      "description": "Seamlessly connect with your existing tools and workflows in minutes."
+      "title": "Natural Healing",
+      "description": "Organic, plant-based treatments that work in harmony with your body's natural healing processes and energy flow."
     }
   },
   "testimonials": {
-    "title": "What Our Customers Say",
+    "title": "Transformation Stories",
     "testimonial1": {
       "text": "This platform has transformed how we operate. The efficiency gains are remarkable and the support team is outstanding.",
-      "author": "Sarah Johnson",
-      "position": "CEO, TechCorp"
+      "author": "Sarah Chen",
+      "position": "CEO, TechCorp",
+      "quote": "This spa changed my life. The healing treatments and peaceful atmosphere helped me find balance I never knew was possible.",
+      "role": "Wellness Journey Member"
     },
     "testimonial2": {
       "text": "Implementation was seamless and the ROI was evident within the first month. Highly recommended for any growing business.",
-      "author": "Michael Chen",
-      "position": "Operations Director, InnovateNow"
+      "author": "Dr. Maria Rodriguez",
+      "position": "Operations Director, InnovateNow",
+      "quote": "The therapeutic massage and mindfulness programs here are unlike anything I've experienced. True healing happens in this sacred space.",
+      "role": "Holistic Health Practitioner"
     },
     "testimonial3": {
       "text": "The best investment we've made for our company. It's intuitive, powerful, and has excellent customer support.",
-      "author": "Emily Rodriguez",
-      "position": "Founder, StartupSuccess"
+      "author": "James Wilson",
+      "position": "Founder, StartupSuccess",
+      "quote": "A sanctuary of peace in our busy world. The natural healing treatments have restored my energy and renewed my spirit.",
+      "role": "Retreat Regular"
     }
   },
   "contact": {
-    "title": "Get In Touch",
-    "subtitle": "Ready to transform your business? Contact us today.",
+    "title": "Begin Your Healing Journey",
+    "subtitle": "Take the first step towards wellness and discover the transformative power of holistic healing in our peaceful retreat.",
     "form": {
       "name": "Full Name",
-      "email": "Email Address",  
+      "email": "Email Address",
       "phone": "Phone Number",
       "message": "Message",
       "submit": "Send Message",
       "success": "Thank you! We'll get back to you soon.",
       "error": "Please fill in all required fields."
-    }
+    },
+    "address": "123 Garden Wellness Center, Green District, Urban Heights",
+    "hours": "Monday-Friday: 8AM-7PM, Weekends: 9AM-5PM"
   },
   "about": {
     "title": "About Us",
@@ -92,5 +99,19 @@
     "accept_all": "Accept All",
     "accept_selected": "Accept Selected",
     "reject_all": "Reject All"
+  },
+  "business": {
+    "tagline": "Where healing meets tranquility, and wellness becomes a way of life.",
+    "industry": "Wellness & Spa Services",
+    "established": "2023",
+    "mission": "To provide transformative wellness experiences that restore balance, promote healing, and nurture the connection between mind, body, and spirit.",
+    "values": "Holistic Healing, Natural Balance, Inner Peace, Authentic Care, Sacred Space"
+  },
+  "social": {
+    "instagram": "https://instagram.com/urbangardens",
+    "facebook": "https://facebook.com/urbangardens"
+  },
+  "logo": {
+    "alt": "Urban Gardens Ultimate - Wellness Spa & Retreat"
   }
 }
